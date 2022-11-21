@@ -26,7 +26,7 @@ RoBERTa is a transformer model pretrained on a large corpus of English data in a
 Haystack is a python framework for developing End to End question answering systems. It provides a flexible way to use the latest NLP models to solve several QA tasks in real-world settings with huge data collections. Haystack is useful for providing solutions to diverse QA tasks such as Financial Governance, Knowledge Base Search, Competitive intelligence etc. Haystack is available as an open-source library with an extended paid enterprise version with all the bells and whistles. 
 
 
-## Project(https://huggingface.co/spaces/ananduaji/question_answering) Roadmap
+## [Project](https://huggingface.co/spaces/ananduaji/question_answering) Roadmap
 1. Fine tuning the RoBERTa transformer model using haystack.
   - Importing FARMReader class from Haystack.
   - Downloading RoBERTa model from HUgging Face.
