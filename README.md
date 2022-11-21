@@ -1,3 +1,13 @@
-# Custom Question Aswering Model
+---
+title: Question Answering
+emoji: 🏢
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.10.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
 
-Here, I used RoBERTa transformer for fine tuning and making a Question Answering model. The model will predict the answer based on the context we are giving.
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
