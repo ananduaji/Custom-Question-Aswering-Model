@@ -13,7 +13,7 @@ The web app contains two boxes of context and question. And a Submit button. Use
 ### Then after pressing the submit button the answer will be shown below.
 
 ## Examples
-#### Here, the model predicted the answers correctly.
+#### This is some examples of the model's prediction.
 ![](https://user-images.githubusercontent.com/90780162/203084302-aff316d4-f8a7-4bc6-a998-9a82bb466eea.png)
 ![](https://user-images.githubusercontent.com/90780162/203084297-8ba867bb-3bec-445d-8824-ea0edd385431.png)
 ![](https://user-images.githubusercontent.com/90780162/203084288-67d9f676-778b-41f9-b784-c261ff74ef51.png)
