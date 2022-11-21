@@ -43,7 +43,10 @@ Haystack is a python framework for developing End to End question answering syst
 
 
  ## Technologies Used
- 
+ ![](https://user-images.githubusercontent.com/90780162/203093353-662fc4a1-9b4c-47e9-ba5b-f5504e77addd.png)
+ ![](https://user-images.githubusercontent.com/90780162/203093344-4234de9c-cea5-4402-a774-79ff955e8446.png)
+ ![](https://user-images.githubusercontent.com/90780162/203093359-ec923e1f-fcbe-4678-b463-e545e4c34011.png)
+ ![](https://user-images.githubusercontent.com/90780162/203093349-2e50463c-2b28-44f7-af33-dc9c5796211b.jpeg)
  
 
 
