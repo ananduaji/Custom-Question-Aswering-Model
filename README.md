@@ -34,5 +34,16 @@ Haystack is a python framework for developing End to End question answering syst
 
 ## Project Roadmap
 1. Fine tuning the RoBERTa transformer model using haystack.
+  * Importing FARMReader class from Haystack.
+  * Downloading RoBERTa model from HUgging Face.
+  * By using the SQuAD dataset training the model for 5 epochs.
+  * Saving the model for our web app.
+2. By using Streamlit making the web app.
+3. Deploying the web app in Hugging Face Spaces.
+
+
+ ## Technologies Used
+ 
+ 
 
 
