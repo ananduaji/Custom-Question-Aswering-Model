@@ -17,7 +17,7 @@ The web app contains two boxes of context and question. And a Submit button. Use
 ![](https://user-images.githubusercontent.com/90780162/203084302-aff316d4-f8a7-4bc6-a998-9a82bb466eea.png)
 ![](https://user-images.githubusercontent.com/90780162/203084297-8ba867bb-3bec-445d-8824-ea0edd385431.png)
 ![](https://user-images.githubusercontent.com/90780162/203084288-67d9f676-778b-41f9-b784-c261ff74ef51.png)
-#### If the answer is not in the text given then it shows:
+#### If the answer is not present in the context, then it shows:
 ![](https://user-images.githubusercontent.com/90780162/203087941-347137e2-d022-49ac-83c9-68ba4f21be80.png)
 ## What is RoBERTa ?
 RoBERTa is a transformer model pretrained on a large corpus of English data in a self-supervised fashion. RoBERTa builds on BERT's language masking strategy, wherein the system learns to predict intentionally hidden sections of text within otherwise unannotated language examples. BERT uses static masking i.e. the same part of the sentence is masked in each Epoch. In contrast, RoBERTa uses dynamic masking, wherein for different Epochs different part of the sentences are masked. This makes the model more robust.
